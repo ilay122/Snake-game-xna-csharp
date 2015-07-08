@@ -1,0 +1,7 @@
+d:\users\ilayu\documents\visual studio 2013\Projects\Snake\Snake\Snake\bin\x86\Debug\Snake.exe
+d:\users\ilayu\documents\visual studio 2013\Projects\Snake\Snake\Snake\bin\x86\Debug\Snake.pdb
+d:\users\ilayu\documents\visual studio 2013\Projects\Snake\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+d:\users\ilayu\documents\visual studio 2013\Projects\Snake\Snake\Snake\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\users\ilayu\documents\visual studio 2013\Projects\Snake\Snake\Snake\obj\x86\Debug\Snake.exe
+d:\users\ilayu\documents\visual studio 2013\Projects\Snake\Snake\Snake\obj\x86\Debug\Snake.pdb
+D:\Users\ilayu\documents\visual studio 2013\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\SpriteFont1.xnb

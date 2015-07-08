@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake\Snake.csproj", "{15839630-415E-43BE-A89B-B6BB93CE82EF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SnakeContent", "Snake\SnakeContent\SnakeContent.contentproj", "{406E12F6-5A9C-4569-9712-2173663ABEA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15839630-415E-43BE-A89B-B6BB93CE82EF}.Debug|x86.ActiveCfg = Debug|x86
+		{15839630-415E-43BE-A89B-B6BB93CE82EF}.Debug|x86.Build.0 = Debug|x86
+		{15839630-415E-43BE-A89B-B6BB93CE82EF}.Release|x86.ActiveCfg = Release|x86
+		{15839630-415E-43BE-A89B-B6BB93CE82EF}.Release|x86.Build.0 = Release|x86
+		{406E12F6-5A9C-4569-9712-2173663ABEA4}.Debug|x86.ActiveCfg = Debug|x86
+		{406E12F6-5A9C-4569-9712-2173663ABEA4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
